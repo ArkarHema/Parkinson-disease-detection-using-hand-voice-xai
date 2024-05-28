@@ -7,16 +7,28 @@ The Visual Geometry Graph (VGG 16) and neural networks using convolution (CNNs) 
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/262df0e4-8fed-4eb5-a641-de05a5acf492)
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/8405e58f-a841-4ce1-8b64-f2f881992ac1)
 
+
+
 RESULTS:
+
+
 Handwriting:
+
 
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/922d6c71-c28c-405c-880b-1530e27868a6)
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/cae61534-fc72-4039-b4ca-a75634532156)
+
+
 Voice:
+
+
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/87009ac2-acfd-4307-96a8-d295cec4e06b)
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/30dfddfd-7aa7-47f5-beaa-c6df3568e9b2)
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/80d5b633-4a2e-4122-8801-d648e85b566c)
 
+
 Comparison of both features:
+
+
 ![image](https://github.com/ArkarHema/Parkinson-disease-detection-using-hand-voice-xai/assets/118619508/8d058998-439e-4855-886f-b1785b577d8d)
 

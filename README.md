@@ -1,4 +1,6 @@
 AN ANALYSIS OF PARKINSON’S DISEASE FEATURES USING DEEP LEARNING TECHNIQUES
+
+
 The neurological disorder which affects millions of individuals worldwide is Parkinson's illness (PD). Effective intervention and management of the symptoms of Parkinson's disease (PD) depend on an early and precise diagnosis. This study suggests a cutting-edge multi-modal strategy which use deep learning methods to analyze people's voice and handwriting in order to identify Parkinson's disease.
 The Visual Geometry Graph (VGG 16) and neural networks using convolution (CNNs) are utilized to efficiently extract structural representations from the dynamic and complex input. In order to ensure generalizability and robustness, the model is trained on an adequate diverse dataset. In terms of PD detection, the proposed multi-modal strategy shows positive results in terms of accuracy, sensitivity, and specificity. Handwriting and voice coupled produce a more comprehensive depiction of the motor deficits linked to Parkinson's disease (PD), which may improve early diagnostic accuracy.
 
